@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386902419292",
+    "project_id": "myfriendlist-8f690",
+    "storage_bucket": "myfriendlist-8f690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386902419292:android:ec22eaacc02a0bd0054399",
+        "android_client_info": {
+          "package_name": "com.kanti.myfriendlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386902419292-ae8m4jo7pn1o8bp1r2m21q1kphq4jej6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATIaj6TFHfBEg1ZlVWym-sZfjN6Laj9Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386902419292-ae8m4jo7pn1o8bp1r2m21q1kphq4jej6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
